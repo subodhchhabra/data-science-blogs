@@ -22,6 +22,7 @@ A curated list of data science blogs
 * Big-Ish Data http://bigishdata.com/ [(RSS)] (http://bigishdata.com/feed/)
 * blog += 1 http://snippyhollow.github.io/ [(RSS)] (http://snippyhollow.github.io/atom.xml)
 * Blog on neural networks http://yerevann.github.io/atom.xml [(RSS)] (http://yerevann.github.io/atom.xml)
+* blogR | R tips and tricks from a scientist https://drsimonj.svbtle.com/ [(RSS)] (https://drsimonj.svbtle.com/)
 * Brain of mat kelcey http://matpalm.com/blog/ [(RSS)] (http://matpalm.com/blog/feed)
 * Bugra Akyildiz http://bugra.github.io/ [(RSS)] (http://bugra.github.io/feeds/all.atom.xml)
 * Carl Shan http://carlshan.com/ [(RSS)] (http://feeds.feedburner.com/carlshan)
@@ -216,6 +217,11 @@ A curated list of data science blogs
 * Travel By The Numbers http://travelbythenumbers.com/ [(RSS)] (http://travelbythenumbers.com/feed/)
 * _ET) Z) Q) http://benjaminbolte.com/blog/ [(RSS)] (http://benjaminbolte.com/blog/)
 * Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)] (http://www.benfrederickson.com/atom.xml)
+* Eugenio Culurciello http://culurciello.github.io/ [(RSS)] (http://culurciello.github.io/feed.xml)
+* Moonshots http://jxieeducation.com/ [(RSS)] (http://jxieeducation.com/feed.xml)
+* Random notes on Computer Science, Mathematics and Software Engineering http://barmaley-exe.github.io/ [(RSS)] (http://feeds.feedburner.com/barmaley-exe-blog-feed)
+* Blogistic RegressionAbout Projects http://d10genes.github.io/blog/ [(RSS)] (http://d10genes.github.io/blog/feed.xml)
+* R2RT http://r2rt.com/ [(RSS)] (http://r2rt.com/feeds/all.atom.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
